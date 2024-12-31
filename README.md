@@ -22,11 +22,13 @@
 ## Screenshots
 
 ### Desktop Application
-![Desktop Screenshot](https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/4.jpg)
+<img src="https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/4.jpg" alt="Desktop Screenshot" style="width: 80%; height: auto; display: block; margin: 0 auto;">
 
 ### Mobile Interface
-![Mobile Screenshot](https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/1.png)
-![Mobile Screenshot](https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/2.png)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/1.png" alt="Mobile Screenshot 1" style="width: 30%; height: auto;">
+  <img src="https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/2.png" alt="Mobile Screenshot 2" style="width: 30%; height: auto;">
+</div>
 
 ---
 
