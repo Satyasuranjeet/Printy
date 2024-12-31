@@ -22,7 +22,7 @@
 ## Screenshots
 
 ### Desktop Application
-<img src="https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/4.jpg" alt="Desktop Screenshot" style="width: 80%; height: auto; display: block; margin: 0 auto;">
+<img src="https://raw.githubusercontent.com/Satyasuranjeet/Printy/refs/heads/master/Screenshot/4.jpg" alt="Desktop Screenshot" style="width: 50%; height: auto; display: block; margin: 0 auto;">
 
 ### Mobile Interface
 <div style="display: flex; justify-content: space-between; gap: 10px;">
