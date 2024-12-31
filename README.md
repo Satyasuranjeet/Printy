@@ -1,6 +1,6 @@
 # Printy - Wireless Printing Solution
 
-![Printy Banner](https://i.ibb.co/9pW1m13/Untitled-design.png)
+ <img src="https://i.ibb.co/9pW1m13/Untitled-design.png" alt="Printy Banner" style="width: 100%; height: auto; display: block;">
 
 ---
 
